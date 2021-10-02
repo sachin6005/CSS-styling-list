@@ -1,0 +1,24 @@
+body{
+    background-color: darkkhaki;
+}
+h1{
+    background-color: saddlebrown;
+    padding: 20px;
+    text-align: center;
+}
+ol{
+    list-style-type: upper-alpha;
+    background-color: dodgerblue;
+    padding: 30px 40px;
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+ul{
+    list-style-type: square;
+    background-color: lightgreen;
+    padding: 30px 40px;
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
